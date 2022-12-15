@@ -1,0 +1,2 @@
+otp generation:
+google password=go to gmail and app create password
